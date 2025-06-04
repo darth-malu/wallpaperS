@@ -1,0 +1,39 @@
+#+title: my wallpapers 
+#+ATTR_HTML: :align center
+#+NAME:   fig:singed
+
+* current wallpaper
+[[./jinx.png]]
+
+* ++
+
++ Death of Senaca
+[[./death-of-senaca.jpg]]
+
++ cthulthu
+[[./cthulthu.png]]
+
++ ship on stormy seas - ivan aivazovsky
+[[./ship-on-stormy-seas_ivan-aivazovsky.png]]
+
++ madrid
+[[./madrid.png]]
+
+
++ cthulthu
+[[./cthulthu.png]]
+
++ luke smith
+[[./luke-smith.png]]
+
++ suzuki
+[[./suzuki.png]]
+
++ sleeping giant
+[[./sleeping-giant.jpeg]]
+
+[[./wallhaven-1p9glg_1920x1080.png]]
+[[./wallhaven-p9qze9_1920x1080.png]]
+[[./wallhaven-9djrpw_1920x1080.png]]
+[[./wallhaven-qz1vw5_1920x1080.png]]
+[[./wallhaven-kxpvj7_1920x1080.png]]
